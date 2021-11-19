@@ -1,3 +1,6 @@
+# [Demo](https://toy-vibes.netlify.app//)
+Test email & password : clairewei09@gmail.com / test1234
+
 This is the starter site project & all course files for the Next.js & Netlify Identity tutorial on the Net Ninja YouTube channel. Check out the [full tutorial here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4g-0dAaMmFAyM6k3FmuZz).
 
 ### Getting Started
