@@ -1,4 +1,4 @@
-export.handler = async() => {
+exports.handler = async() => {
   console.log('function ran')
 
   const data = { name: 'claire', age: 30 }
